@@ -1,0 +1,7 @@
+czerwony - red,
+zielony - green,
+yellow - żółty,
+black - czarny,
+viola - fioletowy,
+różowy - pink,
+grey - szary/siwy

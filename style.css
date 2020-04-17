@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(150, 203, 233);
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+.card{
+    cursor: pointer;
+    text-align: center;
+    font-size: 0px;
+    padding-top: 40%;
+    width: 100px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: rgb(49, 172, 255);
+    border: 2px solid rgb(53, 138, 218);
+    transition: border .2s ease-in-out, background-color .2s ease-in-out;
+}
+
+.card:hover{
+    /* color: rgb(110, 238, 121); */
+    background-color: rgb(122, 172, 206);
+    border: 2px solid rgb(76, 119, 129);
+}
+
+.box-card{
+	width: 110px;
+    height: 110px;
+    float: left;
+    margin: 10px;
+}
+
+ /* view_video.php?viewkey=ph5dbff237df1fe */
