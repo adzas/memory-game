@@ -4,4 +4,6 @@ yellow - żółty,
 black - czarny,
 viola - fioletowy,
 różowy - pink,
-grey - szary/siwy
+grey - szary/siwy,
+orange - pomarańczowy,
+mint - miętowy
